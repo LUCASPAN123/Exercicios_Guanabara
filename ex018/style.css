@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kaushan+Script&display=swap');
+
+body{
+            
+    font-family: 'works sans' ,Arial, Helvetica, sans-serif;
+    font-size:16px;
+    color:black;
+
+}
+
+h1  {
+
+    font-family: 'Kaushan Script', serif;
+    font-size: 3em;
+}
+
+h2  {
+
+    font-family: 'kaushan script', serif;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'Great Vibes', serif;
+    font-size: 1.5em;
+}
